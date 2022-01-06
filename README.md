@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lázaro</h1>
-<h3 align="center">I'm a infrastructure Analyst and FullStack Student passionate about the best web development technologies.</h3>
+<h3 align="center">I'm a Front End Developer and FullStack Student passionate about the best web development technologies.</h3>
 
 ## 🙋‍♂️ About Me
 
