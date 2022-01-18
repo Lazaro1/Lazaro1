@@ -11,9 +11,7 @@
 
 - 👦 24 years old
 
-- 👨‍💻  Infrastructure Analyst
-
-- 👨‍💻  Studying Front-end and Back-end
+- 👨‍💻  Front-end and Back-end
 
 - 🌱  I’m currently focus on improve my knowledge in Javascript and Typescript development.
 
