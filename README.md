@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👦 24 years old
+- 👦 25 years old
 
 - 👨‍💻  Front-end and Back-end
 
