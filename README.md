@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Lázaro</h1>
+<h1 align="center">Hi, I'm Lázaro</h1>
 <h3 align="center">I'm a Front End Developer and FullStack Student passionate about the best web development technologies.</h3>
 
 ## 🙋‍♂️ About Me
